@@ -1,0 +1,30 @@
+name: Ошибка
+description: Что-то работает не так, как должно
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Что случилось
+      description: Что ожидали и что получили
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как воспроизвести
+      placeholder: |
+        1. Открыть ...
+        2. Нажать ...
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Где
+      description: Ссылка, устройство, браузер или версия приложения
+  - type: textarea
+    id: extra
+    attributes:
+      label: Скриншоты и логи
+      description: Без паролей, токенов и данных клиентов

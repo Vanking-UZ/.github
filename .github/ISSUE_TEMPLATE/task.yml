@@ -1,0 +1,23 @@
+name: Задача
+description: Новая функция или доработка
+labels: ["task"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Что нужно сделать
+      description: Результат глазами клиента или пользователя
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Когда считаем готовым
+      placeholder: |
+        - [ ] ...
+        - [ ] ...
+  - type: textarea
+    id: notes
+    attributes:
+      label: Материалы и ограничения
+      description: Макеты, ссылки, что не входит в задачу
