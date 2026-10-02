@@ -16,17 +16,6 @@
 
 Работаем пакетами с понятным составом: заранее видно, что вы получите, что нужно от вас и как принимается результат. Нестандартные задачи оцениваем отдельно.
 
-### Шоурил
-
-<a href="https://vanking.uz/ru/services/motion-design">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/showreel-poster.webp">
-    <img alt="Фрагмент шоурила vanking: кинетическая типографика, частицы, жидкий хром, морфинг форм, швейцарская сетка, продуктовый ролик, неон" src="./assets/showreel-preview.webp" width="100%">
-  </picture>
-</a>
-
-30 секунд, 24 стиля. Полная версия со звуком — на [vanking.uz](https://vanking.uz/ru/services/motion-design).
-
 ### Инструменты
 
 <p>
