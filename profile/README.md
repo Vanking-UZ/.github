@@ -30,22 +30,22 @@
 ### Инструменты
 
 <p>
-  <img src="./assets/stack/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript">
-  <img src="./assets/stack/react.svg" width="40" height="40" alt="React" title="React">
-  <img src="./assets/stack/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js">
-  <img src="./assets/stack/payload.svg" width="40" height="40" alt="Payload CMS" title="Payload CMS">
-  <img src="./assets/stack/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js">
-  <img src="./assets/stack/python.svg" width="40" height="40" alt="Python" title="Python">
-  <img src="./assets/stack/telegram.svg" width="40" height="40" alt="Telegram Bot API" title="Telegram Bot API">
-  <img src="./assets/stack/dotnet.svg" width="40" height="40" alt="C# / .NET" title="C# / .NET">
-  <img src="./assets/stack/playwright.svg" width="40" height="40" alt="Playwright" title="Playwright">
-  <img src="./assets/stack/1c.svg" width="40" height="40" alt="1С" title="1С">
-  <img src="./assets/stack/figma.svg" width="40" height="40" alt="Figma" title="Figma">
-  <img src="./assets/stack/illustrator.svg" width="40" height="40" alt="Adobe Illustrator" title="Adobe Illustrator">
-  <img src="./assets/stack/after-effects.svg" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects">
-  <img src="./assets/stack/premiere-pro.svg" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro">
-  <img src="./assets/stack/blender.svg" width="40" height="40" alt="Blender" title="Blender">
-  <img src="./assets/stack/remotion.svg" width="40" height="40" alt="Remotion" title="Remotion">
+  <img src="./assets/stack/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript">
+  <img src="./assets/stack/react.svg" width="36" height="36" alt="React" title="React">
+  <img src="./assets/stack/nextjs.svg" width="36" height="36" alt="Next.js" title="Next.js">
+  <img src="./assets/stack/payload.svg" width="36" height="36" alt="Payload CMS" title="Payload CMS">
+  <img src="./assets/stack/nodejs.svg" width="36" height="36" alt="Node.js" title="Node.js">
+  <img src="./assets/stack/python.svg" width="36" height="36" alt="Python" title="Python">
+  <img src="./assets/stack/telegram.svg" width="36" height="36" alt="Telegram Bot API" title="Telegram Bot API">
+  <img src="./assets/stack/dotnet.svg" width="36" height="36" alt="C# / .NET" title="C# / .NET">
+  <img src="./assets/stack/playwright.svg" width="36" height="36" alt="Playwright" title="Playwright">
+  <img src="./assets/stack/1c.svg" width="36" height="36" alt="1С" title="1С">
+  <img src="./assets/stack/figma.svg" width="36" height="36" alt="Figma" title="Figma">
+  <img src="./assets/stack/illustrator.svg" width="36" height="36" alt="Adobe Illustrator" title="Adobe Illustrator">
+  <img src="./assets/stack/after-effects.svg" width="36" height="36" alt="Adobe After Effects" title="Adobe After Effects">
+  <img src="./assets/stack/premiere-pro.svg" width="36" height="36" alt="Adobe Premiere Pro" title="Adobe Premiere Pro">
+  <img src="./assets/stack/blender.svg" width="36" height="36" alt="Blender" title="Blender">
+  <img src="./assets/stack/remotion.svg" width="36" height="36" alt="Remotion" title="Remotion">
 </p>
 
 ### Связаться
